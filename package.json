@@ -1,7 +1,8 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "joseph_p_pasaoas_blog__jamstack",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "Developer's Blog of Joseph P. Pasaoa (https://dev.josephpasaoa.com)",
+  "author": "Joseph P. Pasaoa",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
@@ -23,9 +24,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": "https://github.com/joseph-p-pasaoa/my_blog__JAMstack"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/joseph-p-pasaoa/my_blog__JAMstack/issues"
   }
 }
