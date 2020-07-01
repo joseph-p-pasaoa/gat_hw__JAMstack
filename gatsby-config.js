@@ -46,6 +46,21 @@ module.exports = {
           }
         ]
       }
+    },
+    {
+      resolve: `gatsby-plugin-google-fonts-v2`,
+      options: {
+        fonts: [
+          {
+            family: 'Roboto Slab',
+            variable: true,
+            weights: ['200..900']
+          },
+          {
+            family: 'Roboto Mono'
+          }
+        ]
+      }
     }
   ],
 }
